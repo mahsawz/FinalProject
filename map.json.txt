@@ -15,5 +15,6 @@
   "posylock":130,
   "heightlock":40,
   "posxbrick":50,
-  "posybrick":90
+  "posybrick":90,
+  "test":10
 }
