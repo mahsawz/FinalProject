@@ -1,0 +1,19 @@
+{
+  "posx":[0,40,80,120,160,200,240,280,320,360,400,440,480,520,560,600],
+  "posydown":627,
+  "posyup":40,
+  "width":33,
+  "height":33,
+  "posy":[40,80,120,160,200,240,280,320,360,400,440,480,520,560,600,640],
+  "posxleft":0,
+  "posxright":627,
+  "posxplayer":[40,594],
+  "posyplayer":[580,80],
+  "widthplayer":40,
+  "heightplayer":20,
+  "posxlock":70,
+  "posylock":130,
+  "heightlock":40,
+  "posxbrick":50,
+  "posybrick":90
+}
